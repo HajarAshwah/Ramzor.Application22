@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531837146570",
+    "project_id": "ramzor-application",
+    "storage_bucket": "ramzor-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531837146570:android:998d10026e3eb7f03aab33",
+        "android_client_info": {
+          "package_name": "hajar.ashwah.ramzor.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531837146570-c03a4b9akufd8ug22n5a43php88f5788.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHbEvm3tGi2fulpwpHC20N5mDHFEkJ3E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531837146570-c03a4b9akufd8ug22n5a43php88f5788.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
